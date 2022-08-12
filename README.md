@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @lylclj
-- 👀 I’m interested in computer and some game
-- 🌱 I’m currently learning Linux
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+这是一个C++项目，用来作为学习C++的一个案例。
 
-<!---
-lylclj/lylclj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This is a C++ project.It's a case study of C++.
